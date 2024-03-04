@@ -116,7 +116,7 @@ module.exports = {
   },
 
   SUGGESTIONS: {
-    ENABLED: truee, // Should the suggestion system be enabled
+    ENABLED: true, // Should the suggestion system be enabled
     EMOJI: {
       UP_VOTE: "⬆️",
       DOWN_VOTE: "⬇️",
